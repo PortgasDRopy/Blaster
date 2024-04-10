@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
         {
             velo.y += movementSpeed;
         }
-        /*else
+        /*else if (Input.)
         {
             velo = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         }*/
